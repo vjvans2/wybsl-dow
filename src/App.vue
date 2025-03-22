@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <h1>League Day of Week Checker</h1>
+    <h1>Weekly Game Schedule</h1>
+    <h4><i>A quick reminder of what days your players league is on</i></h4>
     <fieldset style="max-width: 300px">
       <legend>Select your gender:</legend>
       <label>
